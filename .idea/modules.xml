@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OOPs.iml" filepath="$PROJECT_DIR$/OOPs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/THEORY_QUESTIONS/PCPH_ASSIGNMET_QUESTIONS/PCPH_ASSIGNMET_QUESTIONS.iml" filepath="$PROJECT_DIR$/THEORY_QUESTIONS/PCPH_ASSIGNMET_QUESTIONS/PCPH_ASSIGNMET_QUESTIONS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/THEORY_QUESTIONS/THEORY_QUESTIONS.iml" filepath="$PROJECT_DIR$/THEORY_QUESTIONS/THEORY_QUESTIONS.iml" />
+    </modules>
+  </component>
+</project>
